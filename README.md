@@ -1,5 +1,5 @@
 # About Us
 
-We are True Positive Inc. We publish books and a web newsletter on the topic of Artificial Intelligence. The published book is the bestselling The Hundred Page Machine Learning Book by Andriy Burkov. The second book of Andriy, Machine Learning Engineering, is in preparation for release and will be published later in 2020.
+We are True Positive Inc. We publish books and a web newsletter on the topic of Artificial Intelligence. The published books are the bestselling The Hundred-Page Machine Learning Book and Machine Learning Engineering by Andriy Burkov.
 
-We also publish a popular Artificial Intelligence weekly newsletter with more than 57,000 subscribers.
+We also publish a popular Artificial Intelligence weekly newsletter with more than 480,000 subscribers.
